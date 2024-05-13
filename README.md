@@ -1,6 +1,3 @@
-
-![Girl Cycling in autumn](https://github.com/isharaKumarage/Ishara-Kumarage/assets/121053544/da725091-d385-4f75-954e-fb98c20d64f6)
-
 ## 👋 Hello World! I'm Ishara Kumarage
 
 
@@ -54,10 +51,10 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isharaKumarage&show_icons=true&theme=radical)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isharaKumarage&show_icons=true&theme=radical)
 
 
-[![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=isharaKumarage&theme=radical)](https://github.com/isharaKumarage)]
+[![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=isharaKumarage&theme=radical)](https://github.com/isharaKumarage)
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isharaKumarage&layout=compact&theme=radical)](https://github.com/isharaKumarage)]
