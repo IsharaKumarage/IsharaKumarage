@@ -57,7 +57,7 @@
 [![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=isharaKumarage&theme=radical)](https://github.com/isharaKumarage)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isharaKumarage&layout=compact&theme=radical)](https://github.com/isharaKumarage)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isharaKumarage&layout=compact&theme=radical)](https://github.com/isharaKumarage)
 
 
 ## 🏆 GitHub Trophies:
