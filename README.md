@@ -1,4 +1,4 @@
-## 👋 Hello..! I'm Ishara Kumarage ##
+## 👋 Hello World! I'm Ishara Kumarage
 
 
 ## 💫 About Me:
