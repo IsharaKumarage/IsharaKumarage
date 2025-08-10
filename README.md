@@ -1,7 +1,7 @@
-## 👋 Hello World! I'm Ishara Kumarage
+# 👋 Hello! I'm Ishara Kumarage
 
 
-## 💫 About Me:
+# 💫 About Me:
 - 🔭 Currently working on Something Interesting
 - 🌱 Undergraduate student at SLIIT, passionate about learning and exploring new technologies
 - 💻 As a designer, I bring a creative perspective to projects and enjoy crafting visually appealing solutions.
